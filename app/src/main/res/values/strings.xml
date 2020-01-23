@@ -1,0 +1,103 @@
+<resources>
+    <string name="app_name">We-Puzzle</string>
+
+    <string name="title_activity_main">MainActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="three">3x3</string>
+    <string name="four">4x4</string>
+    <string name="five">5x5</string>
+    <string name="title_activity_new_game">NewGameActivity</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">General</string>
+
+    <string name="pref_title_social_recommendations">Enable social recommendations</string>
+    <string name="pref_description_social_recommendations">Recommendations for people to contact
+        based on your message history
+    </string>
+
+    <string name="pref_title_display_name">Display name</string>
+    <string name="pref_default_display_name">John Smith</string>
+
+    <string name="pref_title_add_friends_to_messages">Add friends to messages</string>
+    <string-array name="pref_example_list_titles">
+        <item>Always</item>
+        <item>When possible</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_example_list_values">
+        <item>1</item>
+        <item>0</item>
+        <item>-1</item>
+    </string-array>
+
+    <!-- Example settings for Data & Sync -->
+    <string name="pref_header_data_sync">Data &amp; sync</string>
+
+    <string name="pref_title_sync_frequency">Sync frequency</string>
+    <string-array name="pref_sync_frequency_titles">
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 hour</item>
+        <item>3 hours</item>
+        <item>6 hours</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_sync_frequency_values">
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>180</item>
+        <item>360</item>
+        <item>-1</item>
+    </string-array>
+
+    <string-array name="list_preference_entries">
+        <item>Entry 1</item>
+        <item>Entry 2</item>
+        <item>Entry 3</item>
+    </string-array>
+
+    <string-array name="list_preference_entry_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="multi_select_list_preference_default_value" />
+
+    <string name="pref_title_system_sync_settings">System sync settings</string>
+
+    <!-- Example settings for Notifications -->
+    <string name="pref_header_notifications">Notifications</string>
+
+    <string name="pref_title_new_message_notifications">New message notifications</string>
+
+    <string name="pref_title_ringtone">Ringtone</string>
+    <string name="pref_ringtone_silent">Silent</string>
+
+    <string name="pref_title_vibrate">Vibrate</string>
+
+    <string name="no_game">We are sorry but you cannot play the puzzle without Bluetooth.</string>
+
+    <!--UUID for the app bluetooth service. Used to initiate a connection.-->
+    <string name="uuid_string">c5240013-8bab-4a7b-81ff-4c26617da233</string>
+    <!--<string name="uuid_string">00001000-0000-1000-8000-00805f9b34fb</string>-->
+
+
+    <string name="qr_code_sender_hint_msg">Ask the other team members to scan the QR code</string>
+    <string name="qr_code_sender_description">A QR code for joining in the same team</string>
+    <string name="waiting_game_msg">Waiting for the game to start...</string>
+    <string name="title_activity_test">test</string>
+
+    <!--Variables to send via bluetooth-->
+    <string name="num_of_players">num_of_players</string>
+    <string name="player_id">player_id</string>
+    <string name="image_id">image_id</string>
+    <string name="shuffled_tile_list">shuffled_tile_list</string>
+    <string name="exit_confirmation">Are you sure you want to exit?</string>
+
+</resources>

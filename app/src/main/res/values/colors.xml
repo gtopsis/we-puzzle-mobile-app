@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ffffff</color>
+    <color name="colorPrimaryDark">@color/very_dark</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="black_overlay">#66000000</color>
+    <color name="black">#000000</color>
+    <color name="white">#ffffffff</color>
+    <color name="splash_bg">#ffffff</color>
+
+    <!-- Player colors -->
+    <color name="colorAvatarDog">#f79329</color>
+    <color name="colorAvatarFrog">#bdcf46</color>
+    <color name="colorAvatarPanda">#2f2f2f</color>
+    <color name="colorAvatarWolf">#78a3ad</color>
+
+    <!-- Tile colors -->
+    <color name="colorTileSelected">#20E919</color>
+    <color name="colorTileDeselected">#00000000</color>
+
+    <color name="button_color">@color/primary</color>
+    <color name="button_highlight_color">@color/very_light</color>
+
+    <!-- Palette -->
+    <color name="primary">#ec7304</color>
+    <color name="very_light">#ffac60</color>
+    <color name="light">#fe9635</color>
+    <color name="dark">#bc5a00</color>
+    <color name="very_dark">#924600</color>
+
+    <!-- Puzzle menu colors-->
+    <color name="app_primary">#1976D2</color>
+    <color name="app_primary_pressed">#924600</color>
+    <color name="app_ripple">#924600</color>
+</resources>
