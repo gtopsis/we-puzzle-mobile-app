@@ -113,7 +113,7 @@ const API_KEY = 'ENTER YOUR API';
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-[Live](images/We-puzzle_demo_20161026.mp4)
+[Video demo](https://mega.nz/#!SZQ13C4C!F8n4sdv2tgNNV7jcilByEirkdoQwHDgDALQ8QVd4esk)
 
 
 <!-- Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources. -->
