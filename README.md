@@ -21,7 +21,7 @@ All rights reserved.
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
-Members of the project which was conducted within the course of the course CS-196 (department of Computer Science at University of Crete)
+Members of the project which was conducted within the course of the course **CS-196 Mobile computing** (department of Computer Science at Chalmers University)
 <!-- * [Font Awesome](https://fontawesome.com) -->
 * @xheon
 * @janbechtold
