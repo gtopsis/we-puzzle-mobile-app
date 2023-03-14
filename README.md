@@ -2,7 +2,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-An mobile application (Android) for a collaborative puzzle game. The goal of this game is to make users collaborate in order to solve a puzzle by exchanging pieces of this puzzle.
+An mobile application (Android) for a collaborative puzzle game. The goal of this game is to make 4 users collaborate (each one using his/her own mobile device) by letting them exchange puzzle pieces until they manage to solve a puzzle and reveal the whole picture.
 
 
 ![We puzzle][product-screenshot]
