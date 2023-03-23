@@ -4,13 +4,12 @@
 
 An mobile application (Android) for a collaborative puzzle game. The goal of this game is to make 4 users collaborate (each one using his/her own mobile device) by letting them exchange puzzle pieces until they manage to solve a puzzle and reveal the whole picture.
 
-
-![We puzzle][product-screenshot]
-
-
 ## Demo
 
 [Video demo](https://mega.nz/#!SZQ13C4C!F8n4sdv2tgNNV7jcilByEirkdoQwHDgDALQ8QVd4esk)
+
+
+![We puzzle][product-screenshot]
 
 
 <!-- LICENSE -->
